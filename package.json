@@ -1,0 +1,25 @@
+{
+  "name": "rg3",
+  "version": "1.0.0",
+  "description": "My Bot",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pochao/rg3.git"
+  },
+  "keywords": [
+    "tjbot"
+  ],
+  "author": "pochao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pochao/rg3/issues"
+  },
+  "homepage": "https://github.com/pochao/rg3#readme"
+}
