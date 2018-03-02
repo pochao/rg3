@@ -1,1 +1,1 @@
-module.exports = require('./lib/tjbot');
+module.exports = require('./lib/rg3');
